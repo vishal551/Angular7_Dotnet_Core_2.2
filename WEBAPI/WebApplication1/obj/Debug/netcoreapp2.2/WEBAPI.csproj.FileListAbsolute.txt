@@ -1,0 +1,14 @@
+E:\Dotnet Core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.deps.json
+E:\Dotnet Core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.runtimeconfig.json
+E:\Dotnet Core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.runtimeconfig.dev.json
+E:\Dotnet Core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.dll
+E:\Dotnet Core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.pdb
+E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.csprojAssemblyReference.cache
+E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.csproj.CoreCompileInputs.cache
+E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.RazorAssemblyInfo.cache
+E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.RazorAssemblyInfo.cs
+E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.AssemblyInfoInputs.cache
+E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.AssemblyInfo.cs
+E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.RazorTargetAssemblyInfo.cache
+E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.dll
+E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.pdb

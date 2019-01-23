@@ -1,0 +1,17 @@
+<table class="table table-hover">
+  <tr *ngFor="let item of service.list">
+    <td (click)="getEmployeeByID(item)">
+      [{{ item.EMPCode }}]-{{ item.FullName }}
+    </td>
+    <td (click)="getEmployeeByID(item)">{{ item.Position }}</td>
+    <td (click)="getEmployeeByID(item)">{{ item.Mobile }}</td>
+    <td>
+      <button
+        (click)="deleteEmployee(item.id)"
+        class="btn btn-sm btn-outline-danger"
+      >
+        X
+      </button>
+    </td>
+  </tr>
+</table>

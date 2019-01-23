@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "FullName": "test 1",
+      "Position": "test 2",
+      "EMPCode": "test emp",
+      "Mobile": "test mobile2"
+    },
+    {
+      "id": 2,
+      "FullName": "vis*",
+      "Position": "vis test*",
+      "EMPCode": "vis empcode*",
+      "Mobile": "emp mobile*"
+    },
+    {
+      "id": 3,
+      "FullName": "test",
+      "Position": "test",
+      "EMPCode": "ff",
+      "Mobile": "88662506"
+    }
+  ]
+}
