@@ -15037,11 +15037,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dotnet Core\\WebApplication1\\WebApplication1\\WEBAPI.csproj",
+      "projectUniqueName": "E:\\github\\Angular7\\Angular7_Dotnet_Core_2.2\\WEBAPI\\WebApplication1\\WEBAPI.csproj",
       "projectName": "WEBAPI",
-      "projectPath": "E:\\Dotnet Core\\WebApplication1\\WebApplication1\\WEBAPI.csproj",
+      "projectPath": "E:\\github\\Angular7\\Angular7_Dotnet_Core_2.2\\WEBAPI\\WebApplication1\\WEBAPI.csproj",
       "packagesPath": "C:\\Users\\NS-05\\.nuget\\packages\\",
-      "outputPath": "E:\\Dotnet Core\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "E:\\github\\Angular7\\Angular7_Dotnet_Core_2.2\\WEBAPI\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

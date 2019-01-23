@@ -12,3 +12,17 @@ E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.As
 E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.RazorTargetAssemblyInfo.cache
 E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.dll
 E:\Dotnet Core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.pdb
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.deps.json
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.runtimeconfig.json
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.runtimeconfig.dev.json
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.dll
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\bin\Debug\netcoreapp2.2\WEBAPI.pdb
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.csprojAssemblyReference.cache
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.csproj.CoreCompileInputs.cache
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.RazorAssemblyInfo.cache
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.RazorAssemblyInfo.cs
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.AssemblyInfoInputs.cache
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.AssemblyInfo.cs
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.RazorTargetAssemblyInfo.cache
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.dll
+E:\github\Angular7\Angular7_Dotnet_Core_2.2\WEBAPI\WebApplication1\obj\Debug\netcoreapp2.2\WEBAPI.pdb

@@ -21,11 +21,11 @@ export class EmployeeComponent implements OnInit {
   resetForm(form?: NgForm) {
     if (form != null) form.resetForm();
     this.service.formData = {
-      id: null,
+      id: 0,
       FullName: "",
       Position: "",
       EMPCode: "",
-      Mobile: ""
+      Mobile: 0
     };
   }
   onSubmit(form: NgForm) {
